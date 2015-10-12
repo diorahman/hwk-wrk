@@ -1,0 +1,15 @@
+{
+  "name": "hwk-wrk",
+  "version": "1.0.0",
+  "description": "Example of benchmarking HTTP server using hawk request",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^10.4.1",
+    "hawk": "^3.1.0"
+  }
+}
